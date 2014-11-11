@@ -1,0 +1,6 @@
+*.egg
+*.egg-info
+.coverage
+junit.xml
+coverage.xml
+__pycache__
