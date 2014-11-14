@@ -4,3 +4,5 @@
 junit.xml
 coverage.xml
 __pycache__
+dist
+build
