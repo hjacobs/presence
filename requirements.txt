@@ -1,2 +1,2 @@
-click==3.3
-utmp==0.4
+click>=4.0
+utmp>=0.4
